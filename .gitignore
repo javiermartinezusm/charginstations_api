@@ -1,15 +1,9 @@
-# dependencies
 /chargingstations/node_modules
 /chargingstations/.pnp
 /chargingstations/.pnp.js
 
-# testing
 /chargingstations/coverage
 
-# production
-/chargingstations/build
-
-# misc
 /chargingstations/.DS_Store
 /chargingstations/.env.local
 /chargingstations/.env.development.local
