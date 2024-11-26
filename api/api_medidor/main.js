@@ -4,7 +4,7 @@ const { DateTime } = require('luxon'); // Importa luxon para manejar la zona hor
 
 // Conexión a eWeLink
 const connection = new ewelink({
-    at: '5738361dddf64fe6c522a4a3f8fe80c41196931c',
+    at: '',
     region: 'us',
 });
 
