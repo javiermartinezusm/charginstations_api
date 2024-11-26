@@ -1,15 +1,3 @@
-/chargingstations/node_modules
-/chargingstations/.pnp
-/chargingstations/.pnp.js
+/chargingstations
 
-/chargingstations/coverage
-
-/chargingstations/.DS_Store
-/chargingstations/.env.local
-/chargingstations/.env.development.local
-/chargingstations/.env.test.local
-/chargingstations/.env.production.local
-
-/chargingstations/npm-debug.log*
-/chargingstations/yarn-debug.log*
-/chargingstations/yarn-error.log*
+/api/api_medidor/node_modules
